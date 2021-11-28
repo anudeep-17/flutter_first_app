@@ -1,6 +1,9 @@
 # first_app
 
-A new Flutter project.
+A new Flutter project. <br/>
+first push of flutter app that i ever tried to work more will be coming! <br/>
+thank you ! 
+do check my other repos !!
 
 ## Getting Started
 
